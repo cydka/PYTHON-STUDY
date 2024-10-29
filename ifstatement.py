@@ -40,6 +40,7 @@ y=int(input("enter number"))
 if x<=10 <=20 and y >100:
     print("conditions met")
 else:
+
     print("conditions not met")
 # 4. Write a Python program that checks if a variable 
 # password is equal to the string "secret123".
