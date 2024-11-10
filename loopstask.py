@@ -23,5 +23,5 @@ total_sum = sum(numbers)
 # write a program that takes a number as input and prints its multiplication table up to 10 using a for loop.
 # write a program that counts and prints the number of even numbers between 1 and 50 using a for loop
 # ls1 = [ (“Jay”, 20), (“Mo”, 30), (“Mya”, 32) ]
-# Display the total quantity of the 3 above.
+# Display the total quantity of the 3 above.`   `
 
