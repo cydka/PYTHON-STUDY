@@ -62,3 +62,24 @@ Vehicle2 = motorcycle("Harley-Davidson", "Iron 883")
 print(Vehicle2.rev_engine())
 
 
+
+
+class Animal:
+    def __init__(self,name):
+        self.name=name
+
+    def sound(self):
+        return f'{self.name}makes sound'
+    
+class cat(Animal):
+    def __init__(self, name, breed):
+        super().__init__(name)
+        self.breed=breed
+
+    def sound(self):
+        return super().sound()
+cat1=cat('leon','leopard')
+print(cat.name())
+
+
+

@@ -1,10 +1,3 @@
-fruits.append(oranges)
-
-
-fruits.insert(1,1000)
-print(fruits)
-
-
 num=(10,20,30,40,50,10,50)
 num.remove(30)
 print(num)
